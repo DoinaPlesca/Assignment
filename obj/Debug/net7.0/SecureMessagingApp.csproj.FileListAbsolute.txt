@@ -1,0 +1,14 @@
+C:\Users\doini\SecureMessagingApp\bin\Debug\net7.0\SecureMessagingApp.exe
+C:\Users\doini\SecureMessagingApp\bin\Debug\net7.0\SecureMessagingApp.deps.json
+C:\Users\doini\SecureMessagingApp\bin\Debug\net7.0\SecureMessagingApp.runtimeconfig.json
+C:\Users\doini\SecureMessagingApp\bin\Debug\net7.0\SecureMessagingApp.dll
+C:\Users\doini\SecureMessagingApp\bin\Debug\net7.0\SecureMessagingApp.pdb
+C:\Users\doini\SecureMessagingApp\obj\Debug\net7.0\SecureMessagingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\doini\SecureMessagingApp\obj\Debug\net7.0\SecureMessagingApp.AssemblyInfoInputs.cache
+C:\Users\doini\SecureMessagingApp\obj\Debug\net7.0\SecureMessagingApp.AssemblyInfo.cs
+C:\Users\doini\SecureMessagingApp\obj\Debug\net7.0\SecureMessagingApp.csproj.CoreCompileInputs.cache
+C:\Users\doini\SecureMessagingApp\obj\Debug\net7.0\SecureMessagingApp.dll
+C:\Users\doini\SecureMessagingApp\obj\Debug\net7.0\refint\SecureMessagingApp.dll
+C:\Users\doini\SecureMessagingApp\obj\Debug\net7.0\SecureMessagingApp.pdb
+C:\Users\doini\SecureMessagingApp\obj\Debug\net7.0\SecureMessagingApp.genruntimeconfig.cache
+C:\Users\doini\SecureMessagingApp\obj\Debug\net7.0\ref\SecureMessagingApp.dll
